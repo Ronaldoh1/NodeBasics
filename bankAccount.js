@@ -28,3 +28,7 @@ function getBalance(account){
 deposit(account, 23);
 withdraw(account, 2);
 getBalance(account);
+
+var name = undefined;
+
+console.log(name);
